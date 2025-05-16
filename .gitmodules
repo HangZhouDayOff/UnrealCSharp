@@ -1,6 +1,6 @@
 [submodule "Source/ThirdParty/Mono"]
 	path = Source/ThirdParty/Mono
-	url = https://github.com/crazytuzi/Mono
+	url = https://github.com/HangZhouDayOff/Mono
 [submodule "Source/SourceCodeGenerator"]
 	path = Source/SourceCodeGenerator
-	url = https://github.com/crazytuzi/SourceCodeGenerator
+	url = https://github.com/HangZhouDayOff/SourceCodeGenerator
